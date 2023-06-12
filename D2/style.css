@@ -1,0 +1,130 @@
+.background {
+    background-color: #222F3E;
+    height: 60px;
+
+}
+.background img {
+    height: 40px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+.bg {
+    padding: 0;
+    padding-top: 10px;
+    color: white;
+    background-color:#354758;
+    height: 30px;
+    padding-left: 1%
+}
+
+.bg span{
+    padding-left: 1%;
+}
+
+.bg-orange {
+    margin: 30px;
+    height: 25px;
+    color: white;
+    background-color: #F56600;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.container {
+    margin: 30px;
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .container-two {
+    margin: 30px;
+  }
+
+  .container-two span.shop {
+    padding-left: 2%;
+    color: #017185;
+  }
+
+  .sezioni img  {
+    box-shadow: gray;
+    background-color: #354758;
+    border-radius: 3%;
+    padding: 20px;
+    width: 16%; 
+    height: auto;
+    
+  }
+
+  .video {
+    margin: 30px;
+    text-align: center;
+  }
+
+  .audio {
+    margin: 30px;
+    text-align:center;
+  }
+
+  .video img {
+    width: 100%;
+  }
+
+  .audio img {
+    width: 100%;
+  }
+
+  .container-three span.shop-g {
+    padding-left: 2%;
+    color: #017185;
+
+  }
+
+  .container-three span.shop-a {
+    padding-left: 2%;
+    color: #017185;
+  }
+
+  .bg-bot {
+    padding: 0;
+    padding-top: 10px;
+    color: white;
+    background-color:#354758;
+    height: 30px;
+    text-align: center;
+  }
+
+  a:link {
+    color: greenyellow;
+    background-color: transparent;
+    text-decoration: none;
+ }
+ a:visited {
+    color: deepskyblue;
+    background-color: transparent;
+    text-decoration: none;
+ }
+ a:active {
+    color: yellow;
+    background-color: transparent;
+ }
+
+ .background-bot {
+    background-color: #222F3E;
+    height: 100px;
+ }
+
+ .background-bot img {
+    height: 40px;
+    margin-left: 47%;
+    margin-top: 35px;
+ }
+

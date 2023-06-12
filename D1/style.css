@@ -2,10 +2,8 @@
 
 
 .image {
-    margin: 0 400px;
     display: flex;
     justify-content:center ;
-
 }
 
 .title {
@@ -33,7 +31,18 @@
 
 .color  {
     text-align: center;
-    text-decoration: rgb(129, 128, 128);
+    color: darkgrey;
 }
 
+body span {
+    border-left: 1px solid orange;
+    padding-left: 3%;
+}
 
+ul {
+    margin-bottom: 30px;
+}
+
+li {
+    margin-bottom: 28px;
+}
